@@ -1,0 +1,6 @@
+c:\users\zahari\documents\visual studio 2013\Projects\FirstHomeWork01\FirstHomeWork01\bin\Debug\FirstHomeWork01.exe.config
+c:\users\zahari\documents\visual studio 2013\Projects\FirstHomeWork01\FirstHomeWork01\bin\Debug\FirstHomeWork01.exe
+c:\users\zahari\documents\visual studio 2013\Projects\FirstHomeWork01\FirstHomeWork01\bin\Debug\FirstHomeWork01.pdb
+c:\users\zahari\documents\visual studio 2013\Projects\FirstHomeWork01\FirstHomeWork01\obj\Debug\FirstHomeWork01.csprojResolveAssemblyReference.cache
+c:\users\zahari\documents\visual studio 2013\Projects\FirstHomeWork01\FirstHomeWork01\obj\Debug\FirstHomeWork01.exe
+c:\users\zahari\documents\visual studio 2013\Projects\FirstHomeWork01\FirstHomeWork01\obj\Debug\FirstHomeWork01.pdb
