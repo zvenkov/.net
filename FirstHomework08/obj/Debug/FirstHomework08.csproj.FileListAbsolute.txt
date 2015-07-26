@@ -1,0 +1,5 @@
+c:\users\zahari\documents\visual studio 2013\Projects\FirstHomework03\FirstHomework08\bin\Debug\FirstHomework08.exe.config
+c:\users\zahari\documents\visual studio 2013\Projects\FirstHomework03\FirstHomework08\bin\Debug\FirstHomework08.exe
+c:\users\zahari\documents\visual studio 2013\Projects\FirstHomework03\FirstHomework08\bin\Debug\FirstHomework08.pdb
+c:\users\zahari\documents\visual studio 2013\Projects\FirstHomework03\FirstHomework08\obj\Debug\FirstHomework08.exe
+c:\users\zahari\documents\visual studio 2013\Projects\FirstHomework03\FirstHomework08\obj\Debug\FirstHomework08.pdb
